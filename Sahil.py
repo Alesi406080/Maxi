@@ -100,7 +100,7 @@ def hasil(OK,cp):
 	    input("\x1b[1;97mPress enter to back BXB Menu ")
 	    Sad_Boy()
 
-def bad_Boy():
+def Sad_Boy():
 
 
 
@@ -117,7 +117,7 @@ def bad_Boy():
     print(' [2] Join Group')
     print(' [E] exit ')
     print('')
-    _bad_Boy___ = input(' [?] Choose option : ')
+    _Sad_Boy___ = input(' [?] Choose option : ')
     if _Sad_Boy___ in ('1', '01'):
         __xxx__().bad_Boyx(id)
     if _Sad_Boy___ in ('2', '02'):
@@ -298,7 +298,7 @@ class __xxx__:
             print('\033[1;33m Total IDs : %s ' % len(self.id))
             print('\033[1;33m Please Wait...')
             print(47*"-")
-            with javed(max_workers=30) as bxbworld:
+            with Shahid(max_workers=30) as Shahidworld:
                 for zsb in self.id: # Yo Ndak Tau Kok Tanya Saia
                     try:
                         uid, name = zsb.split('|')
