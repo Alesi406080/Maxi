@@ -98,7 +98,7 @@ def hasil(OK,cp):
 	    print('\n\n  \x1b[1;97m Total OK : \x1b[1;97m %s  \x1b[1;97mShahid_OK.txt' % (H, P, str(len(ok))))
 	    print('  \x1b[1;97m Total CP :\x1b[1;97m   %s \x1b[1;97mShahid_CP.txt' % (H, P, str(len(cp))))
 	    input("\x1b[1;97mPress enter to back BXB Menu ")
-	    bad_Boy()
+	    Sad_Boy()
 
 def bad_Boy():
 
@@ -122,14 +122,14 @@ def bad_Boy():
         __xxx__().bad_Boyx(id)
     if _Sad_Boy___ in ('2', '02'):
         os.system('https://facebook.com/groups/347577560720737/')
-    if _bad_Boy___ in ('E', 'ee'):
+    if _Sad_Boy___ in ('E', 'ee'):
         pass
 
 
 class __xxx__:
     def __init__(self):
         self.id = []
-    def bad_Boyx(self,id):
+    def Sad_Boyx(self,id):
   
        
       
@@ -334,4 +334,4 @@ class load:
             time.sleep(0.1)
         print('\n')
 
-bad_Boy()
+Sad_Boy()
